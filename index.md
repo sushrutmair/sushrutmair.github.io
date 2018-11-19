@@ -1,3 +1,3 @@
-## LPG Leak Detector
+## Sushrut J Mair
 
-There are already lots of projects built on top of the MQ family of sensors and also specifically the MQ6.
+###Hello! This is a place for me to gather all my open source projects and blogs related to them. Please use the navigation links below to explore! Hope you like my projects and find them useful in some manner!
