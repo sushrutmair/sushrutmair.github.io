@@ -12,3 +12,6 @@
 
 - #### [AForge.NET projects](https://github.com/sushrutmair/aforge-net-projects): Computer vision projects based off the AForge.NET framework. Somewhat defunct now, the framework is nonetheless an excellent guide to computer vision. Written in .NET C#.
 
+
+#### My professional profile is always updated and available on [LinkedIn](https://in.linkedin.com/in/sushrut-mair-3769b62).
+
